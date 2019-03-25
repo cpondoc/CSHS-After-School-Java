@@ -30,16 +30,9 @@ public class StudentInfoCard
         
         //Contact Information
         System.out.print("Student Contact Information:\n");
-        System.out.print("Home Phone Number: 301-662-1697\t");
         System.out.print("Cell Phone Number: 240-529-2209\n");
         System.out.println("Email Address: chris.pondoc@comcast.net");
         System.out.println("Best Times of Contact: Monday, Wednesday, Friday, 5-7\n");
-        
-        //Parent Information
-        System.out.print("Parent Information for: Carlo Pondoc\n");
-        System.out.println("Work Phone Number: 301-517-1943");
-        System.out.println("Cell Phone Number: 240-505-0512");
-        System.out.println("Email: carlo.pondoc@comcast.net\n");
         
         //Extra Information (Math course, programming, reason for course)
         System.out.println("Miscellaneous:");
