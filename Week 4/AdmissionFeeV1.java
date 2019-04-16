@@ -2,8 +2,8 @@
 /**
  * This program calculates the admission fee based on a person's age.
  *
- * @author George Boole
- * @version 06/04/17
+ * @author Chris Pondoc
+ * @version 4/16/2019
  */
 import java.util.Scanner;
 public class AdmissionFeeV1
