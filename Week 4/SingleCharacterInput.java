@@ -17,9 +17,10 @@ public class SingleCharacterInput
         //Input
         System.out.print("Do you live in Florida (Y/N)? ");
         String liveInFlorida = in.next();
+        char resident = liveInFlorida.charAt(0);
 
         //Processing and Output
-        boolean isResident = resident == "Y";
+        boolean isResident = resident == 'Y';
 
         if(isResident)
             System.out.println("Status: Florida Resident");
