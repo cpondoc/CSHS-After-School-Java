@@ -3,8 +3,8 @@
  * This program illustrates the use of the if-else-if structure 
  * and determines a student's letter grade based on an average.
  *
- * @author George Boole
- * @version 06/04/17
+ * @author Chris Pondoc
+ * @version 4/16/2019
  */
 import java.util.Scanner;
 public class CalcAverage
