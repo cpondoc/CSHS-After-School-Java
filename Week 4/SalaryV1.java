@@ -6,8 +6,8 @@
  * and-a-half times the regular hourly rate for the overtime
  * hours.
  *
- * @author George Boole
- * @version 06/04/17
+ * @author Chris Pondoc
+ * @version 4/16/2019
  */
 import java.util.Scanner;
 public class SalaryV1
