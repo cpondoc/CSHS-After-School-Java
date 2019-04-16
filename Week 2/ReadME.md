@@ -1,6 +1,6 @@
 # Week 2
 
-During our meeting for the first week, we will be covering the arithmetic operations you can use when creating a program:
+During our meeting for the second week, we will be covering the arithmetic operations you can use when creating a program:
 * Variables
 * Addition
 * Subtraction
